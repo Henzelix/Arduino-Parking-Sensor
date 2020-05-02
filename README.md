@@ -15,4 +15,4 @@ If you want to build it, you would need:
 1. HC-SR04 ultrasonic sensor
 
 Circuit for this project (circuit created with [Tinkercad](https://tinkercad.com)):
-![](Parking Sensor.png)
+![](parking-sensor.png)
