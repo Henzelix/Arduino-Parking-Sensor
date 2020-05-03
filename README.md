@@ -16,3 +16,5 @@ If you want to build it, you would need:
 
 Circuit for this project (circuit created with [Tinkercad](https://tinkercad.com)):
 ![](parking-sensor.png)
+
+**Connections**
